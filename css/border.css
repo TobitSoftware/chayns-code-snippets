@@ -1,0 +1,4 @@
+/*add a border around the element*/
+.border {
+  border: 2px solid #000;
+}
