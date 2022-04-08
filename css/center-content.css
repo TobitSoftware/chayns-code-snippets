@@ -1,4 +1,4 @@
-/*center the children of a element*/
+/*Center the children of a element.*/
 .center-content {
   display: flex;
   justify-content: center;

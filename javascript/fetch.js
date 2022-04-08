@@ -1,4 +1,4 @@
-/*send a web request*/
+/*Send a web request.*/
 fetch('https://my-api.com/test', {
     method: 'POST', // GET, POST, PUT, DELETE, etc.
     headers: { // request headers

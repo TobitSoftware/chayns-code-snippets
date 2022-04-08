@@ -1,4 +1,4 @@
-/*insert class to add space between the children of a element*/
+/*Insert class to add space between the children of a element.*/
 .space-between {
   display: flex;
   justify-content: space-between;

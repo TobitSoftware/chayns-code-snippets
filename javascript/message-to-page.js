@@ -1,2 +1,2 @@
-/*send an intercom message to a page*/
+/*Send an intercom message to a page.*/
 chayns.intercom.sendMessageToPage({ text });

@@ -1,6 +1,6 @@
 /*Use a chayns color for your elements.
 Usage: (background-)color: var(--chayns-color--100)
-all colors are found on design.chayns.net*/
+all colors are found on design.chayns.net.*/
 .color {
     color: var(--chayns-color--100);
     background-color: var(--chayns-color--100);
